@@ -5,12 +5,21 @@
     <link>https://jeremyyeaton.github.io/</link>
       <atom:link href="https://jeremyyeaton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/</link>
     </image>
+    
+    <item>
+      <title>Activation of syntax-sensitive structures in the reading brain</title>
+      <link>https://jeremyyeaton.github.io/talk/psychonomics2020/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/talk/psychonomics2020/</guid>
+      <description>&lt;p&gt;The recording is available here: &lt;a href=&#34;https://www.youtube.com/watch?v=LaYboq3Uafc&#34;&gt;https://www.youtube.com/watch?v=LaYboq3Uafc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ambiguity in negative dependencies</title>
@@ -51,7 +60,7 @@
       <link>https://jeremyyeaton.github.io/project/sse-meg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/project/sse-meg/</guid>
-      <description>&lt;p&gt;Recent evidence shows that people can discriminate a well-formed 4-word sentence from the same words arranged in an illegal order within 400 ms. This observation raises the question of how the syntactic structure for such word sequences could be constructed so rapidly. To elucidate the neural underpinnings of this process, we conducted an MEG study where participants were presented with either short well-formed sentences (+syntax), or the same words in a syntactically illicit order (-syntax). In both conditions, all words were presented simultaneously. Using an ROI-based source-level analysis, we found significantly more activation in the +syntax condition relative to the -syntax condition in parts of the left temporal lobe, as well as in the left IFG. These differences began at relatively early latencies (350ms post stimulus onset), in line with previous ERP results, and provide a glimpse of where syntax is first processed in the brain.&lt;/p&gt;
+      <description>&lt;p&gt;Recent evidence shows that people can discriminate a well-formed 4-word sentence from the same words arranged in an illegal order within 400 ms. This observation raises the question of how the syntactic structure for such word sequences could be constructed so rapidly. To elucidate the neural underpinnings of this process, we conducted a magnetoencephalography (MEG) study where participants were presented with either short well-formed sentences (+syntax), or the same words in a syntactically illicit order (-syntax). In both conditions, all words were presented simultaneously. Using an ROI-based source-level analysis, we found significantly more activation in the +syntax condition relative to the -syntax condition in parts of the left temporal lobe, as well as in the left IFG. These differences began at relatively early latencies (350ms post stimulus onset), in line with previous ERP results, and provide a glimpse of where syntax is first processed in the brain.&lt;/p&gt;
 </description>
     </item>
     
