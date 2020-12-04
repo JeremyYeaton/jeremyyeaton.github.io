@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>Co-registered natural story reading</title>
+      <link>https://jeremyyeaton.github.io/project/natural-reading/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/natural-reading/</guid>
+      <description>&lt;p&gt;Most studies of reading use experiments that employ contrived sentences designed to see how people react to bizarre input and/or use the Rapid Serial Visual Presentation (RSVP) paradigm which presents one word at a time at the same location. While these can be informative, neither addresses how people &lt;em&gt;actually&lt;/em&gt; read under normal circumstances. The main goal of this project is to produce a co-registered eye-tracking and EEG dataset of people reading a real text (in this case, several chapters of a novel), under naturalistic conditions. While this can help answer some of our own research questions, it can also serve as a resource to others who want to test out their own predictions about language processing in a natural setting without having to design an experiment and collect their own data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study</title>
       <link>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid calculation of sentence structure in MEG</title>
+      <link>https://jeremyyeaton.github.io/project/sse-meg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/sse-meg/</guid>
+      <description>&lt;p&gt;Recent evidence shows that people can discriminate a well-formed 4-word sentence from the same words arranged in an illegal order within 400 ms. This observation raises the question of how the syntactic structure for such word sequences could be constructed so rapidly. To elucidate the neural underpinnings of this process, we conducted an MEG study where participants were presented with either short well-formed sentences (+syntax), or the same words in a syntactically illicit order (-syntax). In both conditions, all words were presented simultaneously. Using an ROI-based source-level analysis, we found significantly more activation in the +syntax condition relative to the -syntax condition in parts of the left temporal lobe, as well as in the left IFG. These differences began at relatively early latencies (350ms post stimulus onset), in line with previous ERP results, and provide a glimpse of where syntax is first processed in the brain.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
