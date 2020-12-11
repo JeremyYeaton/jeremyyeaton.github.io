@@ -5,7 +5,7 @@
     <link>https://jeremyyeaton.github.io/author/laure-tosatto/</link>
       <atom:link href="https://jeremyyeaton.github.io/author/laure-tosatto/index.xml" rel="self" type="application/rss+xml" />
     <description>Laure Tosatto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Laure Tosatto</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Statistical learning in noise</title>
       <link>https://jeremyyeaton.github.io/project/sequence-learning/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/project/sequence-learning/</guid>
       <description>&lt;p&gt;In a series of experiments using a motor sequence learning task, we are examining the effect of different types of noise on the baboons&#39; ability to extract a regularity (e.g.: AB) from a sequence. For example, if the baboon saw the pair AB 100 times, but each time it was in a different position in the sequence (e.g.: XABX, XXAB, ABXX, etc.), will that impede their ability to learn the relationship between A and B relative to if they only saw ABCD every trial?&lt;/p&gt;
 &lt;p&gt;In a parallel project, we are constructing a computational model of this learning process to better understand how the process takes place in baboons, and how that differs from in humans.&lt;/p&gt;

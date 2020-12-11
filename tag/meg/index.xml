@@ -21,11 +21,21 @@
     </item>
     
     <item>
-      <title>Rapid calculation of sentence structure in MEG</title>
+      <title>Sentence Superiority in MEG</title>
       <link>https://jeremyyeaton.github.io/project/sse-meg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/project/sse-meg/</guid>
       <description>&lt;p&gt;Recent evidence shows that people can discriminate a well-formed 4-word sentence from the same words arranged in an illegal order within 400 ms. This observation raises the question of how the syntactic structure for such word sequences could be constructed so rapidly. To elucidate the neural underpinnings of this process, we conducted a magnetoencephalography (MEG) study where participants were presented with either short well-formed sentences (+syntax), or the same words in a syntactically illicit order (-syntax). In both conditions, all words were presented simultaneously. Using an ROI-based source-level analysis, we found significantly more activation in the +syntax condition relative to the -syntax condition in parts of the left temporal lobe, as well as in the left IFG. These differences began at relatively early latencies (350ms post stimulus onset), in line with previous ERP results, and provide a glimpse of where syntax is first processed in the brain.&lt;/p&gt;
+&lt;p&gt;This experiment is part of a larger ERC Advanced Grant looking at parallel orthographic and sentence processing during reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallel processing in reading</title>
+      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
+      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
 </description>
     </item>
     
