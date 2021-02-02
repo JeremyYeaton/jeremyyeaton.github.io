@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Co-registered natural story reading</title>
-      <link>https://jeremyyeaton.github.io/project/natural-reading/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/natural-reading/</guid>
-      <description>&lt;p&gt;Most studies of reading use experiments that employ contrived sentences designed to see how people react to bizarre input and/or use the Rapid Serial Visual Presentation (RSVP) paradigm which presents one word at a time at the same location. While these can be informative, neither addresses how people &lt;em&gt;actually&lt;/em&gt; read under normal circumstances. The main goal of this project is to produce a co-registered eye-tracking and EEG dataset of people reading a real text (in this case, several chapters of a novel), under naturalistic conditions. While this can help answer some of our own research questions, it can also serve as a resource to others who want to test out their own predictions about language processing in a natural setting without having to design an experiment and collect their own data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study</title>
       <link>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
