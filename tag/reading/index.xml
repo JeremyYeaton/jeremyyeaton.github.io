@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Letter position coding</title>
+      <link>https://jeremyyeaton.github.io/project/letter-perception/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/letter-perception/</guid>
+      <description>&lt;p&gt;Misspelled words containing repeated letters that already occur in the word like &lt;em&gt;repetitition&lt;/em&gt; are much harder to identify as misspelled than if letters were added that weren&amp;rsquo;t already in the word like &lt;em&gt;repetiglition&lt;/em&gt;. The same is true if you swap two letters in a word vs. replace one of them with another letter. There are a number of ways that our brain can trick itself into thinking a non-word is a word, but all of these come down to the question &lt;em&gt;how does the brain know where letters are in a word?&lt;/em&gt; Are the letters coded in slots like c1 a2 t3? Or maybe they&amp;rsquo;re coded as being relative to one another &amp;ndash; c before a, a before t.&lt;/p&gt;
+&lt;p&gt;In a series of online letter identification experiments manipulating where the word appears on the screen, and when and how we tell the participants what their target is (before or after presentation), we are moving to better understand how the brain codes letter position information in the visual field and within a word.&lt;/p&gt;
+&lt;p&gt;This experiment is part of a larger ERC Advanced Grant looking at parallel orthographic and sentence processing during reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study</title>
       <link>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
