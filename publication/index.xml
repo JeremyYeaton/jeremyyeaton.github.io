@@ -5,12 +5,28 @@
     <link>https://jeremyyeaton.github.io/publication/</link>
       <atom:link href="https://jeremyyeaton.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jeremyyeaton.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Positional cueing, string location variability, and letter-in-string identification</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The prosody of French ambiguous multiple negative sentences</title>
+      <link>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The sentence superiority effect in the reading brain</title>
@@ -25,14 +41,6 @@
       <link>https://jeremyyeaton.github.io/publication/di-liberto-2021-l-2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/di-liberto-2021-l-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The prosody of French ambiguous multiple negative sentences</title>
-      <link>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://jeremyyeaton.github.io/</link>
       <atom:link href="https://jeremyyeaton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/</link>
     </image>
+    
+    <item>
+      <title>Positional cueing, string location variability, and letter-in-string identification</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The prosody of French ambiguous multiple negative sentences</title>
+      <link>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The sentence superiority effect in the reading brain</title>
@@ -36,14 +52,6 @@
       <link>https://jeremyyeaton.github.io/publication/di-liberto-2021-l-2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/di-liberto-2021-l-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The prosody of French ambiguous multiple negative sentences</title>
-      <link>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/publication/deprez-yeaton-2021-nc/</guid>
       <description></description>
     </item>
     
@@ -203,6 +211,15 @@ Judy Kroll
 Charles Torres
 Christian Navarro-Torres
 Zachary Rosen&lt;/p&gt;
+&lt;p&gt;Tools I have used in my research:
+EEG &amp;ndash; ERP &amp;amp; mTRF; mass-univariate cluster analysis
+MEG - analysis in source space
+Behavioral paradigms
+Machine learning &amp;ndash; SRN, k-means, linear regression
+Modelling - glmer, lmer, GAMM
+Frequentist statistics (t-test, ANOVA, rm-anova)
+Bayesian statistics (t-test, anova, rm-anova)
+semantic vector representations&lt;/p&gt;
 </description>
     </item>
     
@@ -211,13 +228,14 @@ Zachary Rosen&lt;/p&gt;
       <link>https://jeremyyeaton.github.io/papers/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/papers/links/</guid>
-      <description>&lt;p&gt;Dufau et al 2021, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Dufau_et_al-2021-Preprint-Sentence_superiority.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Deprez &amp;amp; Yeaton 2021, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2021-Preprint-ProsodyNegation.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Yeaton &amp;amp; Grainger 2021, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Yeaton_Grainger-2021-manuscript-LetterInString.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dufau et al 2021, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Dufau_et_al-2021-manuscript-Sentence_superiority.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Deprez &amp;amp; Yeaton 2021, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2021-manuscript-ProsodyNegation.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript V1&lt;/a&gt; &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2021-manuscript-ProsodyNegation_revised.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/DiLiberto_et_al-2021-NeuroImage-Neural_representation_L2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Di Liberto et al 2021&lt;/a&gt;, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/DiLiberto_et_al-2020-BioRxiv-Neural_representation_L2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Mirault_et_al-2020-Psychophysiology-POF_repetition.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mirault et al 2020&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Yeaton-2019-MasterThesis-V2_word_order.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton master thesis&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blanchette et al 2018&lt;/a&gt;, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Blanchette_et_al-2018-LSA-EnglishNCandDN_abstract.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstract&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2018-RLLT14-FrenchNCandDN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deprez &amp;amp; Yeaton 2018&lt;/a&gt;, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/lsrl_46_knockoff.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2018-RLLT14-FrenchNCandDN.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deprez &amp;amp; Yeaton 2018&lt;/a&gt;, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/lsrl_46_knockoff.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Yeaton-2015-UndergradThesis-Context_and_Prosody.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton undergrad thesis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
