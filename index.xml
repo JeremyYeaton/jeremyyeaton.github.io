@@ -5,12 +5,36 @@
     <link>https://jeremyyeaton.github.io/</link>
       <atom:link href="https://jeremyyeaton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/</link>
     </image>
+    
+    <item>
+      <title>Simple questions on simple associations: Regularity extraction in Papio papio</title>
+      <link>https://jeremyyeaton.github.io/talk/psychonomics2021/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/talk/psychonomics2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error detection and correction among adults with aphasia in a naming task</title>
+      <link>https://jeremyyeaton.github.io/talk/snl2021/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/talk/snl2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are you smarter than a Guinea Baboon?</title>
+      <link>https://jeremyyeaton.github.io/talk/lsci202c/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/talk/lsci202c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Positional cueing, string location variability, and letter-in-string identification</title>
@@ -82,15 +106,6 @@
     </item>
     
     <item>
-      <title>Sentence Superiority in MEG</title>
-      <link>https://jeremyyeaton.github.io/project/sse-meg/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/sse-meg/</guid>
-      <description>&lt;p&gt;This line of experiments is part of a larger ERC Advanced Grant looking at parallel orthographic and sentence processing during reading.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Parallel processing in reading</title>
       <link>https://jeremyyeaton.github.io/project/pop-r/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -145,7 +160,7 @@
       <link>https://jeremyyeaton.github.io/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/background/</guid>
-      <description>&lt;p&gt;cf: &lt;a href=&#34;https://www.sites.google.com/site/experimentalsyntax4/home?authuser=0&#34;&gt;https://www.sites.google.com/site/experimentalsyntax4/home?authuser=0&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;cf: &lt;a href=&#34;https://www.sites.google.com/site/experimentalsyntax4/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sites.google.com/site/experimentalsyntax4/home?authuser=0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;People who trained/ advised me
 Viviane Déprez
 Giovanni Di Liberto
