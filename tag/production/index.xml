@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>psycholinguistics | Jeremy Yeaton</title>
-    <link>https://jeremyyeaton.github.io/tag/psycholinguistics/</link>
-      <atom:link href="https://jeremyyeaton.github.io/tag/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
-    <description>psycholinguistics</description>
+    <title>production | Jeremy Yeaton</title>
+    <link>https://jeremyyeaton.github.io/tag/production/</link>
+      <atom:link href="https://jeremyyeaton.github.io/tag/production/index.xml" rel="self" type="application/rss+xml" />
+    <description>production</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>psycholinguistics</title>
-      <link>https://jeremyyeaton.github.io/tag/psycholinguistics/</link>
+      <title>production</title>
+      <link>https://jeremyyeaton.github.io/tag/production/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/project/aphasia-syntax/</guid>
       <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between what area is damaged and what parts of the language system are impaired. By comparing the language abilities and brain scans of a large cohort of adults with aphasia, we can extract patterns to help us better understand the composition of the language system, as well as which parts of the brain underlie the components of the system.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallel processing in reading</title>
-      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
-      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
 </description>
     </item>
     
