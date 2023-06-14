@@ -5,12 +5,36 @@
     <link>https://jeremyyeaton.github.io/publication/</link>
       <atom:link href="https://jeremyyeaton.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jeremyyeaton.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-inclusive language as a Rational Speech Act in Spanish</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23gender/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel word reading revealed by fixation-related brain potentials</title>
+      <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The prosody of French ambiguous multiple negative sentences</title>

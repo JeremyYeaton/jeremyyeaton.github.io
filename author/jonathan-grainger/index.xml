@@ -5,12 +5,28 @@
     <link>https://jeremyyeaton.github.io/author/jonathan-grainger/</link>
       <atom:link href="https://jeremyyeaton.github.io/author/jonathan-grainger/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Grainger</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jonathan Grainger</title>
       <link>https://jeremyyeaton.github.io/author/jonathan-grainger/</link>
     </image>
+    
+    <item>
+      <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel word reading revealed by fixation-related brain potentials</title>
+      <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simple questions on simple associations: Regularity extraction in Papio papio</title>
@@ -50,15 +66,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel processing in reading</title>
-      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
-      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

@@ -5,12 +5,20 @@
     <link>https://jeremyyeaton.github.io/tag/parallel-processing/</link>
       <atom:link href="https://jeremyyeaton.github.io/tag/parallel-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>parallel processing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>parallel processing</title>
       <link>https://jeremyyeaton.github.io/tag/parallel-processing/</link>
     </image>
+    
+    <item>
+      <title>Parallel word reading revealed by fixation-related brain potentials</title>
+      <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Positional cueing, string location variability, and letter-in-string identification</title>
@@ -42,15 +50,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel processing in reading</title>
-      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
-      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

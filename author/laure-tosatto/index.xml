@@ -5,7 +5,7 @@
     <link>https://jeremyyeaton.github.io/author/laure-tosatto/</link>
       <atom:link href="https://jeremyyeaton.github.io/author/laure-tosatto/index.xml" rel="self" type="application/rss+xml" />
     <description>Laure Tosatto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Laure Tosatto</title>
@@ -13,21 +13,19 @@
     </image>
     
     <item>
+      <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple questions on simple associations: Regularity extraction in Papio papio</title>
       <link>https://jeremyyeaton.github.io/talk/psychonomics2021/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/talk/psychonomics2021/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical learning in noise</title>
-      <link>https://jeremyyeaton.github.io/project/sequence-learning/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/sequence-learning/</guid>
-      <description>&lt;p&gt;In a series of experiments using a motor sequence learning task, we are examining the effect of different types of noise on the baboons&#39; ability to extract a regularity (e.g.: AB) from a sequence. For example, if the baboon saw the pair AB 100 times, but each time it was in a different position in the sequence (e.g.: XABX, XXAB, ABXX, etc.), will that impede their ability to learn the relationship between A and B relative to if they only saw ABCD every trial?&lt;/p&gt;
-&lt;p&gt;In a parallel project, we are constructing a computational model of this learning process to better understand how the process takes place in baboons, and how that differs from in humans.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

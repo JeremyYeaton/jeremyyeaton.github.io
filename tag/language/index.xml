@@ -5,12 +5,36 @@
     <link>https://jeremyyeaton.github.io/tag/language/</link>
       <atom:link href="https://jeremyyeaton.github.io/tag/language/index.xml" rel="self" type="application/rss+xml" />
     <description>language</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>language</title>
       <link>https://jeremyyeaton.github.io/tag/language/</link>
     </image>
+    
+    <item>
+      <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-inclusive language as a Rational Speech Act in Spanish</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23gender/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel word reading revealed by fixation-related brain potentials</title>
+      <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Error detection and correction among adults with aphasia in a naming task</title>
@@ -70,15 +94,6 @@
     </item>
     
     <item>
-      <title>Parallel processing in reading</title>
-      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
-      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Visual processing of verb-second (V2) word order in second language acquisition: ERP Evidence from French-Swedish successive bilinguals</title>
       <link>https://jeremyyeaton.github.io/publication/yeaton-thesis-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -108,15 +123,6 @@
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/yeaton-thesis-2015/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ambiguity in negative dependencies</title>
-      <link>https://jeremyyeaton.github.io/project/negation/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/negation/</guid>
-      <description>&lt;p&gt;Many languages exhibit Negative Concord, that is when two negative items are interpreted as a single negation. For example, if a man has robbed a bank and says &lt;em&gt;I didn&amp;rsquo;t do nothing&lt;/em&gt;, we understand this as &lt;em&gt;I didn&amp;rsquo;t do anything&lt;/em&gt; even though he used two negative words&amp;ndash;&lt;em&gt;didn&amp;rsquo;t&lt;/em&gt; and &lt;em&gt;nothing&lt;/em&gt;. By contrast, if a mother comes home from work and finds her child sitting in front of the television, she might accuse them of having done nothing all day, to which they might reply &lt;em&gt;I didn&amp;rsquo;t do nothing&lt;/em&gt;. The child, however means exactly the opposite of what the bank robber meant &amp;ndash; that they &lt;em&gt;did&lt;/em&gt; do &lt;em&gt;something&lt;/em&gt;. French speakers have been shown to easily access both of these readings (Déprez et al. 2015), so we&amp;rsquo;ve undertaken a series of experiments to see how context (Déprez &amp;amp; Yeaton 2018), and prosody (Yeaton &amp;amp; Déprez forthcoming) might be employed to convey meaning. We also want to examine how good listeners are at leveraging these prosodic signals to access the meaning that the speaker intended (Loder et al. forthcoming).&lt;/p&gt;
-</description>
     </item>
     
   </channel>

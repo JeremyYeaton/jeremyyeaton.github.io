@@ -5,12 +5,36 @@
     <link>https://jeremyyeaton.github.io/</link>
       <atom:link href="https://jeremyyeaton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/</link>
     </image>
+    
+    <item>
+      <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-inclusive language as a Rational Speech Act in Spanish</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton23gender/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton23gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel word reading revealed by fixation-related brain potentials</title>
+      <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The prosody of French ambiguous multiple negative sentences</title>
@@ -86,30 +110,11 @@
     </item>
     
     <item>
-      <title>Statistical learning in noise</title>
-      <link>https://jeremyyeaton.github.io/project/sequence-learning/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/sequence-learning/</guid>
-      <description>&lt;p&gt;In a series of experiments using a motor sequence learning task, we are examining the effect of different types of noise on the baboons&#39; ability to extract a regularity (e.g.: AB) from a sequence. For example, if the baboon saw the pair AB 100 times, but each time it was in a different position in the sequence (e.g.: XABX, XXAB, ABXX, etc.), will that impede their ability to learn the relationship between A and B relative to if they only saw ABCD every trial?&lt;/p&gt;
-&lt;p&gt;In a parallel project, we are constructing a computational model of this learning process to better understand how the process takes place in baboons, and how that differs from in humans.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Parafoveal-on-foveal repetition effects in sentence reading: A co-registered eye-tracking and electroencephalogram study</title>
       <link>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/mirault-psychophys-2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel processing in reading</title>
-      <link>https://jeremyyeaton.github.io/project/pop-r/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/pop-r/</guid>
-      <description>&lt;p&gt;This project is the umbrella for a large research program encompassing behavioral, eye-tracking, modelling, and neuroimaging experiments as part of an ERC Advanced Grant looking at parallel orthographic and sentence processing during reading. The PI on this project is Jonathan Grainger.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -142,15 +147,6 @@
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/yeaton-thesis-2015/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ambiguity in negative dependencies</title>
-      <link>https://jeremyyeaton.github.io/project/negation/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/negation/</guid>
-      <description>&lt;p&gt;Many languages exhibit Negative Concord, that is when two negative items are interpreted as a single negation. For example, if a man has robbed a bank and says &lt;em&gt;I didn&amp;rsquo;t do nothing&lt;/em&gt;, we understand this as &lt;em&gt;I didn&amp;rsquo;t do anything&lt;/em&gt; even though he used two negative words&amp;ndash;&lt;em&gt;didn&amp;rsquo;t&lt;/em&gt; and &lt;em&gt;nothing&lt;/em&gt;. By contrast, if a mother comes home from work and finds her child sitting in front of the television, she might accuse them of having done nothing all day, to which they might reply &lt;em&gt;I didn&amp;rsquo;t do nothing&lt;/em&gt;. The child, however means exactly the opposite of what the bank robber meant &amp;ndash; that they &lt;em&gt;did&lt;/em&gt; do &lt;em&gt;something&lt;/em&gt;. French speakers have been shown to easily access both of these readings (Déprez et al. 2015), so we&amp;rsquo;ve undertaken a series of experiments to see how context (Déprez &amp;amp; Yeaton 2018), and prosody (Yeaton &amp;amp; Déprez forthcoming) might be employed to convey meaning. We also want to examine how good listeners are at leveraging these prosodic signals to access the meaning that the speaker intended (Loder et al. forthcoming).&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -242,10 +238,11 @@ semantic vector representations&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/papers/links/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Unpublished manuscripts&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Snell et al. 2022, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Snell_et_al-2021-manuscript-POF_syntax.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dufau et al. 2022, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Dufau_et_al-2021-manuscript-Sentence_superiority.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Yeaton et al. 2022, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/Yeaton_et_al_-2022-manuscript-Simple_associations.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Published papers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2023simple.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton et al. 2023 L &amp;amp; B&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2023gender.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton et al. 2023 LSA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/snell2023parallel.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snell et al. 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Yeaton_Grainger-2022-Acta_Psychologica-Letter_in_string.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton &amp;amp; Grainger 2022&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/Deprez_Yeaton-2022-Glossa-NC_Prosody_Frnch_mult_neg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deprez &amp;amp; Yeaton 2022&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/DiLiberto_et_al-2021-NeuroImage-Neural_representation_L2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Di Liberto et al 2021&lt;/a&gt;, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/DiLiberto_et_al-2020-BioRxiv-Neural_representation_L2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt;&lt;/p&gt;

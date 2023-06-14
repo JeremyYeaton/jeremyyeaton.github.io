@@ -28,15 +28,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Statistical learning in noise</title>
-      <link>https://jeremyyeaton.github.io/project/sequence-learning/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/sequence-learning/</guid>
-      <description>&lt;p&gt;In a series of experiments using a motor sequence learning task, we are examining the effect of different types of noise on the baboons&#39; ability to extract a regularity (e.g.: AB) from a sequence. For example, if the baboon saw the pair AB 100 times, but each time it was in a different position in the sequence (e.g.: XABX, XXAB, ABXX, etc.), will that impede their ability to learn the relationship between A and B relative to if they only saw ABCD every trial?&lt;/p&gt;
-&lt;p&gt;In a parallel project, we are constructing a computational model of this learning process to better understand how the process takes place in baboons, and how that differs from in humans.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
