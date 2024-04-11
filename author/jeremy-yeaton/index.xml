@@ -5,12 +5,30 @@
     <link>https://jeremyyeaton.github.io/author/jeremy-yeaton/</link>
       <atom:link href="https://jeremyyeaton.github.io/author/jeremy-yeaton/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jeremyyeaton.github.io/images/icon_hu2217aec9144ab057846f6c3deff09b40_479145_512x512_fill_lanczos_center_3.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/author/jeremy-yeaton/</link>
     </image>
+    
+    <item>
+      <title>Sentence superiority in the reading brain</title>
+      <link>https://jeremyyeaton.github.io/publication/dufau-2024-meg/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/dufau-2024-meg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language production in aphasia</title>
+      <link>https://jeremyyeaton.github.io/project/paragrammatism/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/paragrammatism/</guid>
+      <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between localization of damage and presentation of language symptoms. Two broad patterns of expressive syntactic deficits emerge: agrammatism and paragrammatism. Whereas agrammatism is characterized by omissions and reductions in syntactic structure (&lt;em&gt;telegraphic speech&lt;/em&gt;), paragrammatism is characterized by substitutions and insertions, as well as breakdowns in hierarchical structure (&lt;em&gt;sentence monsters&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;By closely analyzing transcripts of people with aphasia retelling the story of Cinderella, we can better characterize the nature of their expressive deficits, as well as understand how these deficits relate to focal brain damage.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
@@ -69,27 +87,10 @@
     </item>
     
     <item>
-      <title>Language production in aphasia</title>
-      <link>https://jeremyyeaton.github.io/project/aphasia-syntax/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/aphasia-syntax/</guid>
-      <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between what area is damaged and what parts of the language system are impaired. By comparing the language abilities and brain scans of a large cohort of adults with aphasia, we can extract patterns to help us better understand the composition of the language system, as well as which parts of the brain underlie the components of the system.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Positional cueing, string location variability, and letter-in-string identification</title>
       <link>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/yeaton-grainger-2021-lis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The sentence superiority effect in the reading brain</title>
-      <link>https://jeremyyeaton.github.io/publication/dufau-2021-meg/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/publication/dufau-2021-meg/</guid>
       <description></description>
     </item>
     

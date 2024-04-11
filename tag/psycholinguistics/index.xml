@@ -5,19 +5,29 @@
     <link>https://jeremyyeaton.github.io/tag/psycholinguistics/</link>
       <atom:link href="https://jeremyyeaton.github.io/tag/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     <description>psycholinguistics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jeremyyeaton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jeremyyeaton.github.io/images/icon_hu2217aec9144ab057846f6c3deff09b40_479145_512x512_fill_lanczos_center_3.png</url>
       <title>psycholinguistics</title>
       <link>https://jeremyyeaton.github.io/tag/psycholinguistics/</link>
     </image>
     
     <item>
       <title>Language production in aphasia</title>
-      <link>https://jeremyyeaton.github.io/project/aphasia-syntax/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/aphasia-syntax/</guid>
-      <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between what area is damaged and what parts of the language system are impaired. By comparing the language abilities and brain scans of a large cohort of adults with aphasia, we can extract patterns to help us better understand the composition of the language system, as well as which parts of the brain underlie the components of the system.&lt;/p&gt;
+      <link>https://jeremyyeaton.github.io/project/paragrammatism/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/paragrammatism/</guid>
+      <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between localization of damage and presentation of language symptoms. Two broad patterns of expressive syntactic deficits emerge: agrammatism and paragrammatism. Whereas agrammatism is characterized by omissions and reductions in syntactic structure (&lt;em&gt;telegraphic speech&lt;/em&gt;), paragrammatism is characterized by substitutions and insertions, as well as breakdowns in hierarchical structure (&lt;em&gt;sentence monsters&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;By closely analyzing transcripts of people with aphasia retelling the story of Cinderella, we can better characterize the nature of their expressive deficits, as well as understand how these deficits relate to focal brain damage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syntactic parallelism</title>
+      <link>https://jeremyyeaton.github.io/project/syntactic-parallelism/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/project/syntactic-parallelism/</guid>
+      <description>&lt;p&gt;An outstanding question in both psycho- and neurolinguistics is whether the same computational and neurobiological architecture is used to both generate and comprehend the hierarchical structure of sentences. Using a novel task which touches on receptive metalinguistic judgments, sentence repetition, and sentence production, we can create a clear picture of syntactic abilities in input and output for healthy as well as brain-damaged patients. By comparing performance across the different levels of the task, we hope to see dissociations which might provide insight into the architecture of the syntactic system(s).&lt;/p&gt;
 </description>
     </item>
     
