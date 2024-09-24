@@ -5,12 +5,20 @@
     <link>https://jeremyyeaton.github.io/author/jeremy-yeaton/</link>
       <atom:link href="https://jeremyyeaton.github.io/author/jeremy-yeaton/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu2217aec9144ab057846f6c3deff09b40_479145_512x512_fill_lanczos_center_3.png</url>
       <title>Jeremy Yeaton</title>
       <link>https://jeremyyeaton.github.io/author/jeremy-yeaton/</link>
     </image>
+    
+    <item>
+      <title>The neurobiology of sentence production: A narrative review and meta-analysis</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton-neurobiology-sentenceprod/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton-neurobiology-sentenceprod/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sentence superiority in the reading brain</title>
@@ -21,19 +29,9 @@
     </item>
     
     <item>
-      <title>Language production in aphasia</title>
-      <link>https://jeremyyeaton.github.io/project/paragrammatism/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jeremyyeaton.github.io/project/paragrammatism/</guid>
-      <description>&lt;p&gt;Language impairments, broadly known as &lt;em&gt;aphasia&lt;/em&gt; are a common result of left hemisphere stroke. Aphasia looks different for every patient, but there are patterns across individuals between localization of damage and presentation of language symptoms. Two broad patterns of expressive syntactic deficits emerge: agrammatism and paragrammatism. Whereas agrammatism is characterized by omissions and reductions in syntactic structure (&lt;em&gt;telegraphic speech&lt;/em&gt;), paragrammatism is characterized by substitutions and insertions, as well as breakdowns in hierarchical structure (&lt;em&gt;sentence monsters&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;By closely analyzing transcripts of people with aphasia retelling the story of Cinderella, we can better characterize the nature of their expressive deficits, as well as understand how these deficits relate to focal brain damage.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Simple questions on simple associations: regularity extraction in non-human primates</title>
       <link>https://jeremyyeaton.github.io/publication/yeaton23simple/</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/yeaton23simple/</guid>
       <description></description>
     </item>
@@ -51,6 +49,14 @@
       <link>https://jeremyyeaton.github.io/publication/snell-pof-syn/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/snell-pof-syn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Neurobiology of Syntax</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton-concentration-exam/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton-concentration-exam/</guid>
       <description></description>
     </item>
     
