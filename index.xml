@@ -5,7 +5,7 @@
     <link>https://jeremyyeaton.github.io/</link>
       <atom:link href="https://jeremyyeaton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Yeaton</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeremyyeaton.github.io/images/icon_hu2217aec9144ab057846f6c3deff09b40_479145_512x512_fill_lanczos_center_3.png</url>
       <title>Jeremy Yeaton</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Aligning psycholinguistics, neuroscience, and aphasiology with respect to grammatical encoding</title>
+      <link>https://jeremyyeaton.github.io/publication/yeaton2025aligning/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/yeaton2025aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An objective coding scheme for grammatical production deficits in aphasia reveals a categorical divide between agrammatism and paragrammatism</title>
+      <link>https://jeremyyeaton.github.io/publication/fahey2025objective/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jeremyyeaton.github.io/publication/fahey2025objective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The neurobiology of sentence production: A narrative review and meta-analysis</title>
       <link>https://jeremyyeaton.github.io/publication/yeaton-neurobiology-sentenceprod/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/publication/yeaton-neurobiology-sentenceprod/</guid>
       <description></description>
     </item>
@@ -274,7 +290,9 @@ semantic vector representations&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jeremyyeaton.github.io/papers/links/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Unpublished manuscripts&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Yeaton 2024 review, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2024neurobiology_preprint.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript PDF&lt;/a&gt;, &lt;a href=&#34;https://osf.io/preprints/psyarxiv/xku24&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fahey 2025 Cinderella, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/fahey2025objective_preprint.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript PDF&lt;/a&gt;, &lt;a href=&#34;https://doi.org/10.31234/osf.io/7jw62&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yeaton 2025 Aligning review, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2025aligning_preprint.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript PDF&lt;/a&gt;, &lt;a href=&#34;https://doi.org/10.31234/osf.io/ydj9z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yeaton 2025 review, &lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2025neurobiology_preprint.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript PDF&lt;/a&gt;, &lt;a href=&#34;https://osf.io/preprints/psyarxiv/xku24&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Published papers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/dufau2024sentence.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dufau et al. 2024, Neuropsychologia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jeremyyeaton.github.io/papers/yeaton2023simple.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeaton et al. 2023, L &amp;amp; B&lt;/a&gt;&lt;/p&gt;
